@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+streamlit
+langchain
+langchain-community
+langgraph
+langchain-ollama
+psycopg2-binary
+chromadb
